@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "noImplicitAny": true
+    },
+    "exclude": [
+        "node_modules",
+        "build"
+    ],
+    "filesGlob": [
+        "src/**/*.ts",
+        "typings/**/*.ts",
+        "entries/**/*.ts"
+    ],
+    "compileOnSave": false,
+    "buildOnSave": false,
+    "atom": {
+        "rewriteTsconfig": false
+    }
+}

@@ -1,0 +1,4 @@
+build/extractorTests/userscripts
+node_modules
+npm-debug.log
+typings

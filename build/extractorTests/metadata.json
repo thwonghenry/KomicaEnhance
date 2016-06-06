@@ -1,0 +1,6 @@
+{
+    "description": "Extractor for komica sites.",
+    "name": "Komica Extractor",
+    "namespace": "https://github.com/thwonghenry/KomicaExtractor",
+    "version": "0.1"
+}
