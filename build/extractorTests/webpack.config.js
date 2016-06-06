@@ -40,7 +40,7 @@ module.exports = [{
         }],
         loaders: [{
             test: /\.ts$/,
-            loader: 'ts'
+            loader: 'awesome-typescript-loader'
         }, {
             test: /\.jade$/,
             loader: 'jade'

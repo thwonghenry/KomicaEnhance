@@ -1,4 +1,6 @@
 build/extractorTests/userscripts
+build/renderer/userscripts
 node_modules
 npm-debug.log
 typings
+.awcache
